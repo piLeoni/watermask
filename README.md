@@ -1,5 +1,12 @@
 # watermask
 
+> **watermask continues as [terramask](https://github.com/piLeoni/terramask).**
+> Same water, plus land, forests, parks, any OpenStreetMap layer, and depth
+> and height bands from terrain tiles. watermask 0.2 stays available but gets
+> no new features; see
+> [Coming from watermask](https://github.com/piLeoni/terramask#coming-from-watermask)
+> to move over.
+
 Water masks for any area on Earth: the sea, lakes, rivers, canals and docks as
 a coverage grid, shoreline polylines and a distance-to-shore field. The water
 comes from OpenStreetMap vector tiles fetched on demand, so there is nothing to
